@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<logbarang xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="barang.xsd">
+<jagung>
+<kode>M1111</kode>
+		<satuan>pc</satuan>
+		<harga>1000</harga>
+		<jenis_jagung>manis</jenis_jagung>
+		<umur>3</umur>
+		<kualitas>bagus</kualitas>
+		<ukuran>sedang</ukuran>
+		<asal>
+			<pt>sentosa</pt> 
+			<kodewil>10</kodewil>
+		</asal>
+		 <tujuan>
+		 	<pt>luhur</pt> 
+		 	<kodewil>123</kodewil>
+		 </tujuan>
+	</jagung>
+<sagu>
+	<kode>M112</kode>
+	<satuan>pc</satuan>
+		<harga>10000</harga>
+		<umur>3</umur>
+		<kualitas>bagus</kualitas>
+		<ukuran>sedang</ukuran>
+		<asal>
+			<pt>makmur</pt> 
+			<kodewil>12</kodewil>
+		</asal>
+		 <tujuan>
+		 	<pt>luhur</pt> 
+		 	<kodewil>123</kodewil>
+		 </tujuan>
+</sagu>
+<gandum>
+	<kode>M113</kode>
+	<satuan>pc</satuan>
+		<harga>10000</harga>
+		<umur>3</umur>
+		<kualitas>bagus</kualitas>
+		<ukuran>sedang</ukuran>
+		<asal>
+			<pt>sentosa</pt> 
+			<kodewil>10</kodewil>
+		</asal>
+		 <tujuan>
+		 	<pt>luhur</pt> 
+		 	<kodewil>123</kodewil>
+		 </tujuan>
+</gandum>
+<singkong>
+	<kode>M114</kode>
+	<satuan>pc</satuan>
+		<harga>10000</harga>
+		<umur>2</umur>
+		<kualitas>bagus</kualitas>
+		<ukuran>sedang</ukuran>
+		<asal>
+			<pt>sentosa</pt> 
+			<kodewil>10</kodewil>
+		</asal>
+		 <tujuan>
+		 	<pt>luhur</pt> 
+		 	<kodewil>123</kodewil>
+		 </tujuan>
+</singkong>
+<jamur>
+	<kode>M115</kode>
+	<satuan>pc</satuan>
+		<harga>10000</harga>
+		<umur>1</umur>
+		<kualitas>bagus</kualitas>
+		<ukuran>sedang</ukuran>
+		<asal>
+			<pt>sentosa</pt> 
+			<kodewil>10</kodewil>
+		</asal>
+		 <tujuan>
+		 	<pt>luhur</pt> 
+		 	<kodewil>123</kodewil>
+		 </tujuan>
+</jamur>
+</logbarang>
