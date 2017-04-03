@@ -9,7 +9,7 @@ XSD(XML Schema Definition) adalah yang menentukan bagaimana untuk secara resmi m
 Untuk membuat file XML dan schema XSD, bisa mengikuti langkah berikut :
 1. Buka aplikasi ecplipse yang mana saja, kebetulan saya memakai eclipse kepler.
 2. Klik file ->new->project->plug in project
-3. Beri nama sesuai yang anda inginkan, disini saya menggunakan nama barang.xml
+3. Beri nama sesuai yang anda inginkan, disini saya menggunakan nama shintamanufacture
 4. Klik next ->finish
 5. Pada project explorer, fold:src/barang.xml,klik kanan.
 6. Pilih new->other
